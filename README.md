@@ -1,6 +1,6 @@
-### Build the realtime chat with web socket.io and reactjs app, Clone the slack chat communication !
+## Build the realtime chat with web socket.io and reactjs app, Clone the slack chat communication !
 
-## Technologies
+### Technologies
   1. Reactjs
   2. Google user authentication (Fire base)
   3. React Context API (Redux)
@@ -10,8 +10,8 @@
   7. Deploy app to the FIREBASE
   8. Realtime database with FireBase
 
-## HERE IS RESOURCE FOR THE APPLICATION : https://www.youtube.com/watch?v=Oo4ziTddOxs
+### Here is resource : https://www.youtube.com/watch?v=Oo4ziTddOxs
 
-## Folders structure
+### Folders structure
   -- api
       --- 
